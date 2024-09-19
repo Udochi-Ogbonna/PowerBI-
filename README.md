@@ -1,6 +1,6 @@
 ![Untitled](https://github.com/user-attachments/assets/1da262da-7c5e-4b36-b0eb-2b63278a4329)
 
-## SALES DASHBOARD PROJECT
+## SALES DASHBOARD PROJECT USING POWERBI
 ## Objective
 Develop a comprehensive sales dashboard using Power BI to provide insights into sales performance, customer behavior, and product trends, enabling data-driven decision-making for Pishion Enterprises.
 
